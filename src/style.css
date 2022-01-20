@@ -1,0 +1,15 @@
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    background-color: #222;
+    color: #ccb;
+    text-align: center;
+}
+
+#app {
+    font-family: Helvetica, Arial, sans-serif;
+}
